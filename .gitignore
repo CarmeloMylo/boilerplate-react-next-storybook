@@ -48,6 +48,3 @@ next-env.d.ts
 
 # next.js build output
 .next
-
-#dist
-/dist
