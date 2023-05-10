@@ -1,7 +1,7 @@
 # Boilerplate-react-next-storybook
 
-UI component library with storybook.
-
+React Component Library boilerplate is a component library template that leverages React, Next.js, Sass and github to create a custome template for developpers that want to start building their component libraries the easy way.
+With storybook integration. Build UIs without the grunt work.
 # Install
 
 Before installing the library, make sure you have installed node.js version **18.12.0**.
@@ -57,3 +57,10 @@ function App() {
 **Client:** React, Storybook, Sass
 
 **Server:** Node, Next.js
+
+## License
+
+Copyright © 2023, Author [CarmeloMylo](https://github.com/CarmeloMylo). Released under the
+[MIT](https://github.com/CarmeloMylo/boilerplate-react-next-storybook/blob/main/LICENSE).
+
+

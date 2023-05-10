@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-react-next-storybook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A library of reusable React components",
   "module": "dist/index.js",
   "main": "dist/index.js",
