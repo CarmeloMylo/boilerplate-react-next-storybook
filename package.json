@@ -1,7 +1,17 @@
 {
   "name": "boilerplate-react-next-storybook",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "A library of reusable React components",
+  "homepage": "https://getbootstrap.com/",
+  "author": "CarmeloMylo (https://github.com/CarmeloMylo)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarmeloMylo/boilerplate-react-next-storybook"
+  },
+  "bugs": {
+    "url": "https://github.com/CarmeloMylo/boilerplate-react-next-storybook/issues"
+  },
   "module": "dist/index.js",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -16,8 +26,6 @@
     "components",
     "library"
   ],
-  "author": "Mylo",
-  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "rm -rf dist && webpack --mode production",
