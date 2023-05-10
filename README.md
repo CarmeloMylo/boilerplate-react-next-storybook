@@ -40,6 +40,10 @@ Build project
 
 ## Usage/Examples
 
+```bash
+  npm i boilerplate-react-next-storybook
+```
+
 ```javascript
 import { Button }  from 'boilerplate-react-next-storybook'
 
